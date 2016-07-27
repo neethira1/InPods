@@ -10,6 +10,7 @@
     tools:context="com.main.inpods.inpods.CourseList">
 <ListView
     android:layout_width="fill_parent"
+    android:id="@+id/listview"
     android:layout_height="fill_parent">
 
 </ListView>
